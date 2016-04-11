@@ -1,0 +1,21 @@
+Design SQL statement to create two tables to store mutations and samples
+
+Create Table Mutations
+(
+  mutation_id varchar(32),
+  sample_id varchar(32),
+  chromosome char(2),
+  pos bigint,
+  gene char (32),
+  ref char (32),
+  alt char (32)
+);
+
+ Create Table Samples 
+ (
+   sample_id varchar(32),
+   age int(2),
+   phenotype char(32),
+   genotype char(4),
+   genotype_qual int 
+ ) ;
