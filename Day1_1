@@ -1,0 +1,10 @@
+Employee of the month
+
+SELECT EmployeeID, FirstName, LastName, sum(Amount) AS total
+FROM (SELECT distinct Employees.EmployeeID, Employees.FirstName, Employees.LastName, Products.Price*OrderDetails.Quantity AS Amount
+FROM Employees
+JOIN Orders ON Employees.EmployeeID=Orders.EmployeeID
+JOIN OrderDetails ON Orders.OrderID=OrderDetails.OrderID
+JOIN Products ON Products.ProductID=OrderDetails.ProductID)
+Group by EmployeeID
+Order by total
