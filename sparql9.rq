@@ -1,0 +1,6 @@
+SELECT ?strname_n ?strname_n2
+WHERE
+{
+  ?strname_n <http://mark.org/rdf/ns#in_city> "eindhoven" .
+  ?strname_n2  <http://mark.org/rdf/ns#city> "eindhoven" .
+}
