@@ -1,0 +1,96 @@
+@prefix : <http://mark.org/rdf/ns#> . 
+:chr1_22848972_C
+  :query_id "chr1_22848972_C";
+  :chr "1" ;
+  :alt "C" ;
+  :pos 22848972 .
+:leon_d
+  :name "leon_d";
+  :sex "m";
+  :age "53";
+  :strname_n "bretagnehof_27";
+  :married_to "shaoming_h";
+  :children "mark_d";
+  :children "ingrid_d" .
+:shaoming_h
+  :name "shaoming_h";
+  :sex "f";
+  :age "52";
+  :strname_n "bretagnehof_27";
+  :married_to "leon_d";
+  :children "mark_d";
+  :children "ingrid_d" .
+:mark_d
+  :name "mark_d";
+  :sex "m";
+  :age "22";
+  :child_of "leon_d";
+  :child_of "shaoming_h";
+  :strname_n "van_lieflandlaan_12" .
+:ingrid_d
+  :name "ingrid_d";
+  :sex "f";
+  :age "20";
+  :child_of "leon_d";
+  :child_of "shaoming_h";
+  :strname_n "hamsterstraat_23" .
+:ding_h
+  :name "ding_h";
+  :sex "m";
+  :age "23";
+  :child_of "puyyu_h";
+  :strname_n "chingchong_2" .
+:puyyu_h
+  :name "puyyu_h";
+  :sex "f";
+  :age "54";
+  :child_of "popo_h";
+  :children "ding_h";
+  :strname_n "chingchong_2" .
+:popo_h
+  :name "popo_h";
+  :sex "f";
+  :age "86";
+  :children "puyyu_h";
+  :children "shaoming_h";
+  :strname_n "chingchong_2" .
+
+
+:bretagnehof_27
+  :residents "leon_d";
+  :residents "shaoming_h";
+  :in_city "eindhoven" .
+:van_lieflandlaan_12
+  :residents "mark_d";
+  :residents "jolien_j";
+  :residents "gijs_g";
+  :residents "jorik_p";
+  :in_city "utrecht".
+
+
+:eindhoven
+  :strname_n "bretagnehof_27";
+  :strname_n "cavialaan_43";
+  :in_country "the_netherlands" .
+:utrecht
+  :strname_n "van_lieflandlaan_12";
+  :strname_n "van_lieflandlaan_1";
+  :strname_n "van_lieflandlaan_13";
+  :in_country "the_netherlands" .
+:nijmegen
+  :strname_n "hamsterstraat_23";
+  :strname_n "hamsterstraat_24";
+  :strname_n "champagnehof_21";
+  :in_country "the_netherlands" .
+:shanghai
+  :strname_n "chingchong_2";
+  :in_country "china" .
+
+:the_netherlands
+  :city "eindhoven";
+  :city "utrecht";
+  :city "nijmegen" .
+:china
+  :city "shanghai";
+  :city "bejing" ;
+  :city "hong_kong" .
