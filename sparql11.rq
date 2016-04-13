@@ -1,0 +1,13 @@
+prefix : <http://mark.org/rdf/ns#>
+SELECT ?uri ?strname_n ?city_name ?uri_country ?name ?age
+WHERE
+{
+  ?uri :sex "m".
+  ?uri :strname_n ?strname_n .
+  ?uri_city :strname_n ?strname_n .
+  ?uri_city :city_name ?city_name .
+  ?uri_country :city ?city_name .
+  ?uri :name ?name .
+  ?uri :age ?age .
+  FILTER (?age < "30")
+}

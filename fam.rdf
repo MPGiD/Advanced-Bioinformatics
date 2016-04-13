@@ -69,20 +69,24 @@
 
 
 :eindhoven
+  :city_name "eindhoven";
   :strname_n "bretagnehof_27";
   :strname_n "cavialaan_43";
   :in_country "the_netherlands" .
 :utrecht
+  :city_name "utrecht";
   :strname_n "van_lieflandlaan_12";
   :strname_n "van_lieflandlaan_1";
   :strname_n "van_lieflandlaan_13";
   :in_country "the_netherlands" .
 :nijmegen
+  :city_name "nijmegen";
   :strname_n "hamsterstraat_23";
   :strname_n "hamsterstraat_24";
   :strname_n "champagnehof_21";
   :in_country "the_netherlands" .
 :shanghai
+  :city_name "shanghai";
   :strname_n "chingchong_2";
   :in_country "china" .
 
