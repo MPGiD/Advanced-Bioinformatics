@@ -1,11 +1,11 @@
 [
         {
             "hc-key": "dk",
-            "value": 0
+            "value": 40000
         },
         {
             "hc-key": "fo",
-            "value": 1
+            "value": 50300
         },
         {
             "hc-key": "hr",
@@ -17,11 +17,11 @@
         },
         {
             "hc-key": "ee",
-            "value": 53
+            "value": 5000
         },
         {
             "hc-key": "bg",
-            "value": 54
+            "value": 6000
         },
         {
             "hc-key": "es",
@@ -29,47 +29,47 @@
         },
         {
             "hc-key": "it",
-            "value": 75000
+            "value": 150000
         },
         {
             "hc-key": "sm",
-            "value": 10000
+            "value": 25000
         },
         {
             "hc-key": "va",
-            "value": 9
+            "value": 90000
         },
         {
             "hc-key": "tr",
-            "value": 10
+            "value": 87700
         },
         {
             "hc-key": "mt",
-            "value": 11
+            "value": 49200
         },
         {
             "hc-key": "fr",
-            "value": 12
+            "value": 90000
         },
         {
             "hc-key": "no",
-            "value": 13
+            "value": 25000
         },
         {
             "hc-key": "de",
-            "value": 14
+            "value": 500000
         },
         {
             "hc-key": "ie",
-            "value": 15
+            "value": 300000
         },
         {
             "hc-key": "ua",
-            "value": 16
+            "value": 99000
         },
         {
             "hc-key": "fi",
-            "value": 17
+            "value": 20000
         },
         {
             "hc-key": "se",
@@ -77,126 +77,126 @@
         },
         {
             "hc-key": "ru",
-            "value": 19
+            "value": 1
         },
         {
             "hc-key": "gb",
-            "value": 20
+            "value": 200000
         },
         {
             "hc-key": "cy",
-            "value": 21
+            "value": 200000
         },
         {
             "hc-key": "pt",
-            "value": 22
+            "value": 19000
         },
         {
             "hc-key": "gr",
-            "value": 23
+            "value": 750000
         },
         {
             "hc-key": "lt",
-            "value": 24
+            "value": 23000
         },
         {
             "hc-key": "si",
-            "value": 25
+            "value": 23000
         },
         {
             "hc-key": "ba",
-            "value": 26
+            "value": 230000
         },
         {
             "hc-key": "mc",
-            "value": 27
+            "value": 300000
         },
         {
             "hc-key": "al",
-            "value": 28
+            "value": 1
         },
         {
             "hc-key": "cnm",
-            "value": 29
+            "value": 99000
         },
         {
             "hc-key": "nc",
-            "value": 30
+            "value": 54300
         },
         {
             "hc-key": "rs",
-            "value": 31
+            "value": 31492
         },
         {
             "hc-key": "ro",
-            "value": 32
+            "value": 34289
         },
         {
             "hc-key": "me",
-            "value": 33
+            "value": 25983
         },
         {
             "hc-key": "li",
-            "value": 34
+            "value": 23482
         },
         {
             "hc-key": "at",
-            "value": 35
+            "value": 34829
         },
         {
             "hc-key": "sk",
-            "value": 36
+            "value": 12398
         },
         {
             "hc-key": "hu",
-            "value": 37
+            "value": 32489
         },
         {
             "hc-key": "ad",
-            "value": 38
+            "value": 23483
         },
         {
             "hc-key": "lu",
-            "value": 39
+            "value": 23498
         },
         {
             "hc-key": "ch",
-            "value": 40
+            "value": 98439
         },
         {
             "hc-key": "be",
-            "value": 41
+            "value": 34982
         },
         {
             "hc-key": "kv",
-            "value": 42
+            "value": 48921
         },
         {
             "hc-key": "pl",
-            "value": 43
+            "value": 50000
         },
         {
             "hc-key": "mk",
-            "value": 44
+            "value": 98278
         },
         {
             "hc-key": "lv",
-            "value": 45
+            "value": 94828
         },
         {
             "hc-key": "by",
-            "value": 46
+            "value": 34982
         },
         {
             "hc-key": "is",
-            "value": 47
+            "value": 34982
         },
         {
             "hc-key": "md",
-            "value": 48
+            "value": 98774
         },
         {
             "hc-key": "cz",
-            "value": 49
+            "value": 50000
         }
     ]
